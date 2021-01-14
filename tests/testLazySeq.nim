@@ -1,5 +1,5 @@
 import std/unittest
-import pkg/lazy
+import pkg/lazyseq
 
 suite "lazy sequences":
 

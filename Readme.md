@@ -7,11 +7,11 @@ Includes operations such as `map`, `filter`, `reduce` and `zip`.
 Installation
 ------------
 
-Use the [Nimble][1] package manager to add `lazy` to an existing project.
+Use the [Nimble][1] package manager to add `lazyseq` to an existing project.
 Add the following to its .nimble file:
 
 ```nim
-requires "lazy >= 0.1.0 & < 0.2.0"
+requires "lazyseq >= 0.1.0 & < 0.2.0"
 ```
 
 Examples

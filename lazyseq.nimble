@@ -1,5 +1,5 @@
 version = "0.1.0"
-author = "Lazy Authors"
+author = "lazyseq authors"
 description = "Lazy evaluated sequences"
 license = "MIT"
 
